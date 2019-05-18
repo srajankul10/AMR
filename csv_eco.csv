@@ -1,0 +1,211 @@
+Sr No.,MaterialRecd,Lab ID,SampleDate,Regd No,Gender,Age,Location,Dept,Organism,Amikacin,Cefotaxime,Ciprofloxacin ,Gentamicin ,Imipenem,Meropenem ,Nitrofurantoin(U),Norflox(U),PIP+ TAZ ,Colistin,Co-tramoxazole
+1,pus,P-2171,2-Nov-15,1090342,F,61,8,Surgery,E.coli,R,R,R,R,R,R,ND,ND,R,S,S
+2,pus,P-2175,2-Nov-15,1175049,F,20,21,OBGY/Gynac,E.coli,S,R,R,R,S,R,ND,ND,S,S,R
+3,pus,P-2184,3-Nov-15,771287,F,28,33,skin,E.coli,R,R,R,R,S,I,ND,ND,R,S,S
+4,pus,P-2187,3-Nov-15,1166620,M,29,9,Surgery,E.coli,S,S,R,S,S,S,ND,ND,S,S,S
+5,pus,P-2197,4-Nov-15,1138862,F,22,20,OBGY/Gynac,E.coli,S,S,S,S,S,S,ND,ND,S,S,S
+6,pus,P-2204,4-Nov-15,1158270,F,27,27,Plastic Surgery,E.coli,S,R,S,R,S,S,ND,ND,S,S,S
+7,pus,P-2206,4-Nov-15,1049838,F,72,16,Medicine,E.coli,S,S,S,S,S,S,ND,ND,S,S,S
+8,pus,P-2211,5-Nov-15,936016,F,38,22,OBGY/Gynac,E.coli,S,R,S,I,S,S,ND,ND,S,S,S
+9,pus,P-2215,5-Nov-15,1171971,M,23,12,Surgery,E.coli,R,R,R,R,S,R,ND,ND,S,S,S
+10,pus,P-2219,5-Nov-15,1162699,F,23,TICU,Orthopedics,E.coli,R,R,R,S,S,R,ND,ND,R,R,S
+11,pus,P-2228,6-Nov-15,178140,F,43,8,Surgery,E.coli,S,R,R,S,S,R,ND,ND,S,S,S
+12,pus,P-2229,6-Nov-15,1179757,M,63,9,Surgery,E.coli,R,R,S,R,S,S,ND,ND,S,S,S
+13,pus,P-2233,7-Nov-15,1116519,F,21,19,Medicine ,E.coli,R,R,S,S,S,S,ND,ND,S,S,R
+14,pus,P-2234,7-Nov-15,1138862,F,22,21,OBGY/Gynac,E.coli,R,R,R,R,S,R,ND,ND,R,S,R
+15,pus,P-2240,9-Nov-15,1176156,F,26,20,OBGY/Gynac,E.coli,R,S,R,R,R,R,ND,ND,R,S,R
+16,Sputum,SP-1879,3-Nov-15,1168259,M,50,14,Medicine,E.coli,S,S,R,S,S,R,ND,ND,S,S,S
+17,Sputum,SP-1891,6-Nov-15,1182020,F,45,27,T.B. Chest,E.coli,R,S,R,S,S,R,ND,ND,R,S,R
+18,Sputum,SP-1893,6-Nov-15,575407,F,23,19,Medicine ,E.coli,R,S,R,R,R,S,ND,ND,R,S,R
+19,Sputum,SP-1900,7-Nov-15,1182439,M,53,14,Medicine,E.coli,R,S,R,R,R,R,ND,ND,R,S,R
+20,Fluid,FL-811,3-Nov-15,1175514,M,39,27,T.B. Chest,E.coli,R,R,S,S,S,I,ND,ND,R,S,R
+21,pus,P-2259,14-Nov-15,1183495,F,65,8,Surgery,E.coli,R,R,S,S,S,S,ND,ND,S,S,R
+22,Urine,U-2609,2-Nov-15,1179351,M,75,9,Surgery,E.coli,S,S,ND,S,S,S,S,S,S,S,S
+23,Urine,U-2611,2-Nov-15,218328,M,40,15,Medicine,E.coli,R,R,ND,S,S,S,R,R,R,S,R
+24,Urine,U-2614,2-Nov-15,1180390,F,35,8,Surgery,E.coli,R,R,ND,R,R,R,R,S,R,S,R
+25,Urine,U-2615,3-Nov-15,1147609,M,68,14,Medicine,E.coli,R,R,ND,S,R,R,S,S,R,S,R
+26,Urine,U-2624,4-Nov-15,1178609,M,14,MICU,Medicine,E.coli,R,R,ND,R,S,S,S,S,S,S,R
+27,Urine,U-2629,5-Nov-15,1179452,M,2,63,OPD,E.coli,R,R,ND,R,S,S,S,S,S,S,R
+28,Urine,U-2634,5-Nov-15,829769,F,42,27,T.B.Chest,E.coli,R,R,ND,R,R,R,S,R,S,S,R
+29,Urine,U-2649,7-Nov-15,620326,F,26,MICU,Medicine,E.coli,R,R,ND,S,R,R,S,S,S,S,R
+30,Urine,U-2650,7-Nov-15,1173059,F,80,19,Medicine,E.coli,R,R,ND,R,R,R,S,R,R,S,R
+31,Urine,U-2660,9-Nov-15,1183296,F,11,29,Peadiatric,E.coli,R,S,ND,S,S,S,S,S,S,S,S
+32,Urine,U-2663,10-Nov-15,708833,F,27,60,Medicine,E.coli,S,S,ND,S,S,S,S,S,S,S,S
+33,Urine,U--2672,12-Nov-15,1165943,F,28,19,Medicine ,E.coli,R,R,ND,S,R,R,S,R,R,S,R
+34,Urine,U-2675,14-Nov-15,411827,F,34,60,OPD,E.coli,S,S,ND,S,S,S,S,S,S,S,S
+35,Sputum,SP-1919,14-Nov--15,1181458,M,28,14,Medicine,E.coli,R,R,R,S,S,R,ND,ND,S,S,S
+36,Sputum,SP-1952,18-Nov-15,1186496,F,58,27,T.B.Chest,E.coli,S,S,R,S,S,S,ND,ND,S,S,S
+37,Blood,BL-1948,7-Nov-15,1060147,F,26,MICU,Medicine,E.coli,S,R,S,S,S,S,ND,ND,S,S,S
+38,pus,P-2269,14-Nov--15,1049838,F,72,8,Surgery,E.coli,R,R,R,S,R,R,ND,ND,S,S,R
+39,pus,P-2276,16-Nov-15,956271,M,66,9,Surgery,E.coli,R,R,R,R,S,S,ND,ND,R,S,R
+40,pus,P-2279,16-Nov-15,1028111,F,67,,OPD,E.coli,S,R,R,S,S,R,ND,ND,S,S,S
+41,pus,P-2287,17-Nov--15,1183545,F,22,22,Obgy/Gynac,E.coli,S,R,S,S,S,S,ND,ND,S,S,S
+42,pus,P-2301,18-Nov-15,1185220,M,70,TICU,Orthopedics,E.coli,R,R,R,S,R,R,ND,ND,R,S,R
+43,Urine,U-2683,16-Nov-15,1158636,M,33,9,Surgery,E.coli,R,R,R,R,R,R,R,R,R,S,R
+44,Urine,U-2686,16-Nov-15,1182357,M,95,MICU,Medicine,E.coli,R,R,R,R,S,S,S,S,R,S,R
+45,Urine,U-2689,16-Nov-15,1184653,F,40,19,Medicine,E.coli,R,R,R,S,R,R,S,S,S,S,R
+46,Urine,U-2695,17-Nov--15,145363,F,38,19,Medicine,E.coli,R,R,R,S,S,S,S,R,S,S,R
+47,Urine,U--2700,18-Nov-15,1185236,F,35,19,Medicine,E.coli,S,S,S,S,S,S,S,S,S,S,S
+48,Urine,U-2703,18-Nov-15,1179588,M,60,15,Medicine,E.coli,R,R,R,S,S,R,S,R,S,S,R
+49,Urine,U-2715,19-Nov-15,17621,F,8,29-30,PICU,E.coli,R,R,R,R,R,R,S,R,R,S,R
+50,pus,P-2312,19-Nov-15,1172206,F,50,8,Surgery,E.coli,R,R,R,R,R,R,ND,ND,R,S,R
+51,pus,P-2339,21-Nov-15,1187712,F,39,8,Surgery,E.coli,R,R,R,R,R,R,ND,ND,S,S,S
+52,pus,P-2356,24-Nov-15,1182458,M,30,9,Surgery,E.coli,S,R,R,S,R,R,ND,ND,S,S,S
+53,Urine,U-2722,20-Nov-15,1127192,F,40,21,Obgy/Gynac,E.coli,R,R,R,R,S,S,R,S,S,S,S
+54,Urine,U-2740,23-Nov-15,1183494,M,51,14, Medicine,E.coli,R,R,R,R,R,R,S,S,S,S,R
+55,Urine,U-2745,23-Nov-15,1188795,F,76,19,Medicine,E.coli,R,R,S,S,S,R,R,S,S,S,R
+56,Urine,U-2746,23-Nov-15,721929,F,49,19,Medicine,E.coli,S,S,S,S,S,R,S,R,S,S,R
+57,Sputum,SP-1984,23-Nov-15,1188688,M,0,29,NICU,E.coli,R,S,R,S,S,S,ND,ND,S,S,R
+58,Urine,U-2749,23-Nov-15,117617,F,37,21,Obgy/Gynac,E.coli,R,R,R,R,S,S,R,R,S,S,R
+59,Urine,U-2765,24-Nov-15,1184653,F,40,19,Medicine,E.coli,R,R,R,R,S,S,R,S,S,S,R
+60,pus,P-2362,26-Nov-15,1184617,M,87,MICU,Medicine,E.coli,R,R,R,R,S,S,ND,ND,S,S,R
+61,pus,P-2380,27-Nov-15,1182923,F,45,21,OBGY/Gynac,E.coli,R,R,R,R,S,S,ND,ND,R,S,R
+62,Urine,U-2781,28-Nov-15,227152,M,75,14, Medicine,E.coli,S,S,R,S,S,S,R,S,S,S,S
+63,Urine,U-2785,30-Nov-15,1188795,F,78,19,Medicune,E.coli,R,R,R,R,S,R,S,R,S,S,R
+64,Urine,U-2791,30-Nov-15,1138653,F,30,23,OBGY/Gynac,E.coli,R,R,R,R,S,R,S,S,S,S,S
+1,Urine ,U-2792,1-Dec-15,1191922,M,70,12,Surgery,E coli,R,R,S,R,R,R,ND,ND,R,S,R
+2,Urine ,U-2798,1-Dec-15,1139989,F,24,23,Obgy/Gyanac,E coli,S,R,R,S,S,R,ND,ND,I,S,R
+3,Urine ,U-2802,1-Dec-15,923203,M,70,60,OPD,E coli,S,R,R,R,R,R,ND,ND,S,S,R
+4,Pus,P-2417,1-Dec-15,1185984,F,18,8,Surgery,E coli,S,S,R,S,S,S,ND,ND,S,S,R
+5,Pus,P-2423,2-Dec-15,1178085,M,65,32,Skin,E coli,S,R,S,S,S,S,ND,ND,S,S,S
+6,Pus,P-2436,2-Dec-15,1186044,M,25,,Plastic Surg,E coli,R,R,S,S,S,S,ND,ND,S,S,R
+7,Pus,P-2437,2-Dec-15,1192374,M,70,19,Medicine,E coli,S,R,R,S,R,S,ND,ND,S,S,S
+8,Pus,P-2454,4-Dec-15,1190785,F,23,8,Surgery,E coli,S,S,S,S,S,S,ND,ND,S,S,S
+9,Blood,BL-2067,3-Dec-15,1192365,F,30,19,Medicine,E coli,R,R,R,S,R,R,ND,ND,R,S,R
+10,Csf,C-870,4-Dec-15,1158758,F,45,19,Medicine,E coli,S,R,R,S,R,R,ND,ND,S,S,R
+11,Urine ,U-2792,1-Dec-15,1191922,M,70,12,Surgery,E coli,R,R,R,R,R,R,S,R,R,S,R
+12,Urine ,U-2798,1-Dec-15,1139989,F,24,22,Obgy/Gyanac,E coli,S,R,R,S,R,R,R,R,S,S,R
+13,Urine ,U-2798,1-Dec-15,923203,M,70,60,OPD,E coli,S,R,R,R,R,R,R,R,S,S,R
+14,Urine ,U-2821,2-Dec-15,1179374,M,65,60,OPD,E coli,S,R,S,R,R,S,S,R,S,S,R
+15,Urine ,U-2832,2-Dec-15,1192983,F,45,9,Surgery,E coli,S,S,S,S,S,R,S,S,S,S,S
+16,Urine ,U-2841,7-Dec-15,1195057,F,31,15,Medicine,E coli,S,R,R,R,R,R,S,R,S,S,R
+17,Urine ,U-2842,7-Dec-15,1187788,M,35,15,Medicine,E coli,R,R,R,R,R,R,R,R,R,S,R
+18,Sputum,SP-2031,2-Dec-15,966083,F,33,19,Medicine,E coli,S,R,R,S,S,R,ND,ND,S,S,R
+19,Sputum,SP-2036,2-Dec-15,1190677,F,60,MICU,Medicine,E coli,S,S,S,S,S,S,ND,ND,S,S,S
+20,Sputum,SP-2045,3-Dec-15,1194133,M,63,27,T.B.Chest,E coli,S,R,R,R,R,R,ND,ND,S,S,R
+21,Pus,P-2469,7-Dec-15,70613,F,24,24,Obgy/Gyanac,E coli,S,R,R,S,R,R,ND,ND,R,S,R
+22,Pus,P-2477,8-Dec-15,1149443,M,25,60,OPD,E coli,R,R,R,S,R,R,ND,ND,R,S,R
+23,Pus,P-2489,9-Dec-15,590323,M,70,19,Medicine,E coli,R,R,R,R,R,I,ND,ND,S,S,R
+24,Pus,P-2492,10-Dec-15,118644,M,33,63,OPD,E coli,S,S,S,S,R,S,ND,ND,S,S,S
+25,Pus,P-2500,11-Dec-15,801766,F,41,21,Obgy/Gyanac,E coli,S,R,R,R,S,S,ND,ND,S,S,R
+26,Pus,P-2507,12-Dec-15,1196371,F,20,23,Obgy/Gyanac,E coli,S,R,S,S,S,S,ND,ND,S,S,R
+27,Pus,P-2509,12-Dec-15,1195059,M,75,MICU,Medicine,E coli,S,S,I,S,S,S,ND,ND,S,S,R
+28,Pus,P-2518,12-Dec-15,1188855,F,22,23,Obgy/Gyanac,E coli,S,S,S,S,S,S,ND,ND,S,S,R
+29,Pus,P-2519,12-Dec-15,236965,F,42,8,Surgery,E coli,S,S,S,S,S,S,ND,ND,S,S,S
+30,Pus,P-2529,12-Dec-15,1199224,M,30,TICU,Orthopedics,E coli,S,S,R,S,S,S,ND,ND,S,S,R
+31,Pus,P-2530,15-Dec-15,1198741,M,71,12,Surgery,E coli,S,R,R,S,S,S,ND,ND,S,S,S
+32,Sputum,SP-2070,7-Dec-15,1195187,M,62,19,Medicine,E coli,S,R,R,S,R,R,ND,ND,S,S,R
+33,Sputum,SP-2089,10-Dec-15,1129612,F,60,MICU,Medicine,E coli,S,R,R,S,R,R,ND,ND,R,S,R
+34,Sputum,SP-2703,12-Dec-15,304971,F,31,MICU,Medicine,E coli,S,R,R,S,S,S,ND,ND,S,S,R
+35,Sputum,SP-2115,15-Dec-15,1199194,F,62,14,Medicine,E coli,R,R,S,S,R,R,ND,ND,R,S,R
+36,Sputum,SP2126,16-Dec-15,255113,M,62,14,Medicine,E coli,S,R,R,S,S,S,ND,ND,S,S,R
+37,Urine ,U-2844,8-Dec-15,1116519,F,21,20,OBGY/Gyanac,E coli,S,R,S,S,S,S,S,S,S,S,S
+38,Urine ,U-2848,9-Dec-15,1177494,F,60,21,OBGY/Gyanac,E coli,R,R,R,R,R,R,S,S,R,S,R
+39,Urine ,U-2849,9-Dec-15,887108,F,6,8,Surgery,E coli,S,S,S,S,S,S,S,S,S,S,S
+40,Urine ,U-2851,9-Dec-15,898954,F,54,19,Medicine,E coli,S,R,S,S,R,R,S,R,S,S,R
+41,Urine ,U-2858,11-Dec-15,1193236,F,47,60,OPD,E coli,S,S,S,S,S,S,S,S,S,S,S
+42,Urine ,U-2860,11-Dec-15,1194169,M,55,15,Medicine,E coli,S,R,R,R,S,S,S,R,S,S,S
+43,Urine ,U-2867,12-Dec-15,620455,M,16,10,Neuro - Surgery,E coli,R,R,R,R,R,R,S,R,R,S,R
+44,Urine ,U-2900,17-Dec-15,1200155,F,66,19,Medicine,E coli,S,R,ND,S,S,S,S,S,S,S,R
+45,Urine ,U-2910,18-Dec-15,1199630,F,32,33,Skin,E coli,R,S,ND,S,R,R,S,R,S,S,S
+46,Urine ,U-2917,19-Dec-15,1200408,M,65,15,Medicine,E coli,R,S,ND,S,S,S,S,R,S,S,S
+47,Urine ,U-2921,21-Dec-15,1197428,F,35,19,Medicine,E coli,R,R,ND,R,R,R,S,R,R,S,R
+48,Urine ,U-2926,21-Dec-15,1186749,M,65,12,Surgery,E coli,R,R,ND,R,R,R,R,R,R,S,R
+49,Pus,P-2539,17-Dec-15,801766,F,41,21,Obgy/Gyanac,E coli,R,R,R,R,R,R,ND,ND,S,S,R
+50,Pus,P-2548,17-Dec-15,1192010,F,37,21,Obgy/Gyanac,E coli,S,R,R,R,R,R,ND,ND,S,S,S
+51,Pus,P-2550,17-Dec-15,1148964,F,19,22,Obgy/Gyanac,E coli,S,R,S,S,S,S,ND,ND,S,S,S
+52,Pus,P-2560,19-Dec-15,1187062,M,68,19,Medicine,E coli,R,R,R,R,R,R,ND,ND,R,S,R
+53,Pus,P-2567,19-Dec-15,1201400,F,65,8,Surgery,E coli,R,R,R,R,S,S,ND,ND,S,S,R
+54,Pus,P-2571,21-Dec-15,1201824,F,11,8,Surgery,E coli,R,R,R,R,R,R,ND,ND,R,S,R
+55,Pus,P-2573,21-Dec-15,1199553,F,21,23,Obgy/Gyanac,E coli,S,R,R,R,R,R,ND,ND,S,S,R
+56,Pus,P-2575,21-Dec-15,457653,M,17,19,Medicine,E coli,S,R,R,S,S,S,ND,ND,S,S,R
+57,Pus,P-2576,21-Dec-15,1169835,M,25,19,Medicine,E coli,R,R,S,S,S,S,ND,ND,S,S,S
+58,Pus,P-2577,21-Dec-15,1196424,F,55,8,Surgery,E coli,R,R,R,R,R,R,ND,ND,R,S,R
+59,Sputum,SP-2133,17-Dec-15,1179540,M,8,29,PICU,E coli,S,R,R,S,R,R,ND,ND,S,S,R
+60,Sputum,SP-2139,18-Dec-15,1201484,M,52,27,T.B.Chest,E coli,S,R,S,S,S,S,ND,ND,S,S,S
+61,Urine ,U-2946,23-Dec-15,736305,F,80,19,Medicine,E coli,R,R,ND,R,R,R,R,R,R,S,R
+62,Urine ,U-2966,28-Dec-15,1204021,F,24,23,Obgy/Gyanac,E coli,S,R,ND,S,S,S,S,S,S,S,R
+63,Urine ,U-2973,29-Dec-15,1203645,M,50,12,Surgery,E coli,S,R,ND,S,S,S,S,S,S,S,S
+64,Pus,P-2579,21-Dec-15,1201502,M,25,9,Surgery,E coli,S,R,S,S,S,S,ND,ND,S,S,S
+65,Pus,P-2580,21-Dec-15,1189862,M,24,9,Surgery,E coli,S,R,R,R,R,R,ND,ND,R,S,R
+66,Pus,P-2581,21-Dec-15,1151129,M,50,12,Surgery,E coli,S,R,R,R,R,I,ND,ND,S,S,R
+67,Pus,P-2596,22-Dec-15,1198348,F,0,24,Obgy/Gyanac,E coli,R,R,R,R,R,R,ND,ND,R,S,R
+68,Pus,P-2600,22-Dec-15,1202513,F,50,8,Surgery,E coli,S,R,S,S,S,S,ND,ND,S,S,R
+69,Pus,P-2610,23-Dec-15,138960,M,65,14,Medicine,E coli,S,S,S,S,S,S,ND,ND,S,S,S
+70,Pus,P-2629,28-Dec-15,11699945,M,62,47,Plastic Surgery,E coli,S,R,R,S,R,R,ND,ND,S,S,S
+71,Pus,P-2630,28-Dec-15,1186044,M,25,47,Plastic Surgery,E coli,R,R,S,S,S,S,ND,ND,S,S,S
+72,Urine ,U-2975,29-Dec-15,1026484,M,66,60,OPD,E coli,S,S,ND,S,R,R,S,R,S,S,R
+73,Urine ,U-2981,31-Dec-15,1206231,M,65,33,Skin,E coli,S,R,ND,S,S,S,S,S,S,S,S
+74,Urine ,U-2984,31-Dec-15,1189309,M,40,9,Surgery,E coli,R,R,ND,S,R,R,R,R,R,S,S
+75,Sputum,SP-2118,31-Dec-15,1205794,F,64,19,Medicine,E coli,S,S,S,S,S,S,ND,ND,S,S,S
+1,Pus,p-10,4-Jan-16,1199553,F,21,19,Medicine,E. coli,S,R,R,R,R,R,ND,ND,R,S,S
+2,Pus,p-14,4-Jan-16,1203615,M,49,12,Surgery,E. coli,S,R,S,S,S,S,ND,ND,S,S,S
+3,Pus,P-15,4-Jan-16,1198495,F,30,20,Obgy/Gyanac,E. coli,S,R,R,S,R,R,ND,ND,S,S,S
+4,Pus,P-27,5-Jan-16,1206745,M,66,35,OPD,E. coli,S,R,R,R,R,R,ND,ND,S,S,R
+5,Pus,P-28,7-Jan-16,1169945,M,60,47,Info plastic surgery,E. coli,S,S,R,S,S,S,ND,ND,S,S,R
+6,Pus,P-36,7-Jan-16,1201245,M,23,60,OPD,E. coli,S,R,R,S,S,S,ND,ND,S,S,R
+7,Pus,P-41,8-Jan-16,301501,F,30,24,Obgy/Gyanac,E. coli,S,R,R,R,S,S,ND,ND,S,S,R
+8,Pus,P-43,8-Jan-16,1205006,F,45,21,Babasaheb Ghadge,E. coli,R,R,R,S,S,S,ND,ND,S,S,R
+9,Pus,P-47,9-Jan-16,1186540,M,27,9,Surgery,E. coli,R,R,R,S,S,S,ND,ND,R,S,R
+10,Pus,P-48,9-Jan-16,1204591,M,49,12,Surgery,E. coli,S,S,R,S,S,S,ND,ND,S,S,S
+11,Fluid,Fl-10,4-Jan-16,1199553,F,21,19,Medicine,E. coli,S,R,R,R,R,R,ND,ND,S,S,R
+12,Fluid,Fl-18,6-Jan-16,1196424,F,55,19,Medicine,E. coli,S,R,R,S,S,S,ND,ND,S,S,R
+13,Fluid,Fl-19,6-Jan-16,1208845,M,7,8,Surgery,E. coli,S,R,R,S,S,S,ND,ND,S,S,R
+14,Pus,P-51,11-Jan-16,961756,F,40,21,Obgy/Gyanac,E. coli,S,R,S,S,S,S,ND,ND,S,S,S
+15,Pus,P-58,11-Jan-16,1206824,F,70,8,Surgery,E. coli,S,R,S,S,S,S,ND,ND,S,S,S
+16,Pus,P-57,11-Jan-16,399887,F,27,21,Obgy/Gyanac,E. coli,R,R,R,R,R,R,ND,ND,S,S,R
+17,Pus,P-59,11-Jan-16,191182,F,50,8,Surgery,E. coli,S,R,R,S,S,S,ND,ND,S,S,R
+18,Pus,P-60,11-Jan-16,1206780,F,68,8,Surgery,E. coli,S,R,S,R,S,S,ND,ND,S,S,R
+19,Urine,U-1,1-Jan-16,1206775,F,40,19,Medicine,E. coli,R,R,R,S,S,S,R,S,S,S,S
+20,Urine,U-13,4-Jan-16,909823,M,69,60,OPD,E. coli,S,S,S,S,S,S,S,S,S,S,S
+21,Urine,U-16,4-Jan-16,497632,M,54,14,Medicine,E. coli,S,S,S,S,S,S,R,S,S,S,R
+22,Urine,U-31,5-Jan-16,1171835,F,54,19,Medicine,E. coli,S,S,S,R,S,S,S,R,S,S,R
+23,Urine,U-34,5-Jan-16,738218,M,34,15,Medicine,E. coli,R,R,R,R,S,S,S,R,S,S,S
+24,Urine,U-44,7-Jan-16,120743,F,81,47,Plastic Surgery,E. coli,S,S,S,S,S,S,S,S,S,S,R
+25,Urine,U-47,8-Jan-16,1208357,F,73,19,Medicine,E. coli,S,R,S,S,S,S,R,R,S,S,R
+26,Urine,U-61,9-Jan-16,923203,M,70,19,Medicine,E. coli,S,R,R,R,R,S,R,R,S,S,R
+27,Urine,U-62,9-Jan-16,1210541,F,64,MICU,Medicine,E. coli,R,R,R,R,S,S,S,R,S,S,S
+28,Urine,U-63,9-Jan-16,1210060,F,64,MICU,Medicine,E. coli,R,R,R,R,S,S,S,R,S,S,R
+29,Pus,P-67,12-Jan-16,1209762,M,28,9,Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+30,Pus,P-72,12-Jan-16,399887,F,27,21,Obgy/Gyanac,E. coli,R,R,R,R,R,R,ND,ND,R,S,S
+32,Urine,U-91,13-Jan-16,951412,F,45,MICU,Medicine,E. coli,S,R,R,R,S,S,S,R,S,S,R
+33,Fluid,Fl-35,14-Jan-16,1199553,F,21,8,Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+34,Fluid,Fl-39,14-Jan-16,624249,M,30,12,Surgery,E. coli,R,R,R,R,S,S,ND,ND,S,S,S
+35,Sputum,Sp-82,12-Jan-16,1209784,F,57,19,Medicine,E. coli,S,R,R,R,S,S,ND,ND,S,S,S
+36,Sputum,Sp102,14-Jan-16,1212119,M,47,15,Medicine,E. coli,S,S,S,S,S,S,ND,ND,S,S,S
+37,Pus,P-85,14-Jan-16,1212587,M,67,60,OPD,E. coli,S,R,R,S,S,S,ND,ND,S,S,S
+38,Pus,P-97,16-Jan-16,399887,F,27,8,Surgery,E. coli,R,R,R,R,S,S,ND,ND,S,S,S
+37,Pus,P-116,17-Jan-17,1213214,M,41,9,Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,S
+38,Pus,P-117,17-Jan-17,1205520,M,30,15,Medicine,E. coli,S,S,S,S,S,S,ND,ND,S,S,S
+39,Pus,P-120,17-Jan-17,1213082,F,43,33,Skin,E. coli,S,R,R,S,S,S,ND,ND,S,S,S
+40,Pus,P-145,20-Jan-16,1207718,M,22,47,Plastic Surgery,E. coli,S,R,R,S,S,S,ND,ND,S,S,R
+41,Pus,P-153,21-Jan-16,1172637,M,53,47,Plastic Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+42,Pus,P-155,21-Jan-16,956271,M,66,15,Medicine,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+43,Pus,P-157,22-Jan-16,1206233,M,28,33,Skin,E. coli,S,R,S,R,S,S,ND,ND,S,S,R
+44,Pus,P-168,22-Jan-16,1172637,M,53,47,Plastic Surgery,E. coli,S,R,S,R,S,S,ND,ND,S,S,R
+45,Sputum,SP--146,20-Jan-16,1212100,F,30,,MICU,E. coli,S,R,R,S,S,S,ND,ND,S,S,S
+46,Urine,U-100,14-Jan-16,394454,M,60,15,Medicine,E. coli,R,R,ND,R,R,R,S,S,R,S,R
+47,Urine,U-101,14-Jan-16,1184500,M,31,60,OPD,E. coli,S,R,ND,S,S,S,S,S,S,S,S
+50,Urine,U-108,15-Jan-16,1213581,F,53,19,Medicine,E. coli,S,S,ND,S,S,S,S,S,S,S,S
+51,Urine,U-117,18-Jan-16,1214127,F,65,19,Medicine,E. coli,S,R,ND,S,S,S,S,S,S,S,R
+52,Urine,U-120,18-Jan-16,1214591,F,50,8,Surgery,E. coli,S,R,ND,R,S,S,S,S,S,S,R
+53,Urine,U-128,19-Jan-16,1185210,F,2,29/30,PICU,E. coli,R,R,ND,R,R,R,S,R,R,S,R
+54,Urine,U-140,20-Jan-16,1214100,M,60,15,Medicine,E. coli,S,R,ND,S,S,S,S,S,S,S,S
+55,Urine,U-152,21-Jan-16,1215911,M,68,12,Surgery,E. coli,S,S,ND,S,S,S,S,S,S,S,S
+56,Urine,U-145,21-Jan-16,1186749,M,65,,Urologysis,E. coli,R,R,ND,R,R,R,S,S,R,S,R
+57,Sputum,SP-166,25-Jan-16,546466,M,50,27,T.B.Chest,E. coli,S,R,S,S,S,S,ND,ND,S,S,S
+58,Fluid,FL-35,14-Jan-16,1199553,F,20,8,Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+59,Fluid,FL-37,14-Jan-16,624249,M,45,,MICU,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+60,Urine,U-175,25-Jan-16,1217110,F,45,19,Medicine,E. coli,S,S,ND,R,S,S,S,S,S,S,R
+61,Pus,P-176,28-Jan-16,1216575,F,20,23,Obgy/Gyanac,E. coli,R,R,R,R,S,S,ND,ND,R,S,R
+62,Pus,P-180,25-Jan-16,1168334,F,16,19,Medicine,E. coli,S,R,S,S,S,S,ND,ND,S,S,S
+63,Pus,P-188,25-Jan-16,457274,F,64,8,Surgery,E. coli,R,R,R,R,R,S,ND,ND,R,S,R
+64,Pus,P-197,28-Jan-16,1210370,F,75,8,Surgery,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+65,Pus,P-198,28-Jan-16,1218030,M,6,8,Surgery,E. coli,S,S,S,S,S,S,ND,ND,S,S,R
+66,Sputum,SP-200,29-Jan-16,1211026,F,5,29/30,PICU,E. coli,R,R,R,R,R,R,ND,ND,R,S,R
+67,Urine,U-180,27-Jan-16,893668,F,66,60,OPD,E. coli,S,R,S,S,S,S,S,S,S,S,R
+68,Urine,U-197,29-Jan-16,1211821,F,30,8,Surgery,E. coli,R,R,R,R,S,S,R,R,R,S,R
+69,Sputum,SP-206,30-Jan-16,1188563,M,60,27,T.B.Chest,E. coli,S,R,S,S,S,S,ND,ND,S,S,R
+70,Urine,U-207,30-Jan-16,1162844,F,31,20,Obgy/Gyanac,E. coli,S,R,S,S,S,S,S,S,S,S,R
+71,Urine,U-209,30-Jan-16,1210569,F,19,12,Surgery,E. coli,R,R,R,R,R,R,R,S,R,S,R
+72,Urine,U-216,30-Jan-16,624249,M,30,15,Medicine,E. coli,R,R,R,R,R,R,S,R,R,S,R

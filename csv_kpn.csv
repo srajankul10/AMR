@@ -1,0 +1,104 @@
+SR NO.,MaterialRecd,Column1,SampleDate,Regd No,Gender,Age,Location,Dept,Organism,Amikacin,Cefoxatime,Ctx-cac,Ciprofloxacin,Gentamicin,Imipenem ,Meropenem ,Nitrofurantoin,Norflox,Pip-taz,Colistin,CoT
+1,pus,p-2176,2-Nov-15,737718,F,70,8,Surgery,Klebsiella pnemoniae,S,R,S,R,R,S,R,ND,ND,S,S,S
+2,pus,p-2276,5-Nov-15,1180431,M,40,12, surgery, klebsiella pnemoniae,R,R,S,R,S,S,R,ND,ND,S,S,R
+3,pus,p-2245,9-Nov-15,1178695,M,45,9,Surgery,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+4,Sptum,sp-1874,2-Nov-15,548042,M,5,29, PICU,Klebsiella pnemoniae,S,R,S,R,R,R,S,ND,ND,R,S,S
+5,Sptum,sp-1875,2-Nov-15,1178724,M,50,MICU,Medicine,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+6,Sptum,sp-1889,5-Nov-15,876247,F,21,MICU,Medicine,Klebsiella pnemoniae,S,R,S,S,S,S,S,ND,ND,S,S,R
+7,Urine,U-2657,9-Nov-15,771287,F,28,33,Skin,Klebsiella pnemoniae,S,R,R,S,S,S,S,R,R,S,S,S
+8,Sputum,SP-1909,10-Nov-15,2174,F,75,27,T.B.Chest,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,S
+9,Sputum,SP-1918,14-Nov-15,374177,M,73,15,Medicine,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,R
+10,Sputum,SP-1942,17-Nov-15,1183616,F,26,23,Obgy/Gynac,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,S
+11,Sputum,SP-1949,18-Nov-15,326416,F,70,27,T.B.Chest,Klebsiella pnemoniae,S,R,S,R,S,S,S,ND,ND,S,S,S
+12,Blood,BL-1985,16-Nov-15,1181446,M,5,33,Skin,Klebsiella pnemoniae,S,R,S,R,R,S,S,ND,ND,S,S,S
+13,pus,P-2308,19-Nov-15,143334,M,6,29,PICU,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,S,S,R
+14,pus,P-2330,21-Nov-15,1183602,F,72,TICU,Orthopedics,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,S,S,R
+15,pus,P-2348,24-Nov-15,1188983,F,30,33,Skin,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+16,pus,P-2351,24-Nov-15,1188773,M,75,12,Surgery,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,S
+17,Sputum,SP-1960,19-Nov-15,1171375,F,65,27,T.B.Chest,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,R
+18,Sputum,SP-1998,26-Nov-15,1189860,F,15,15,Medicine,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,R
+19,pus,P-2358,26-Nov-15,1186540,M,27,14,Medicine,Klebsiella pnemoniae,R,R,R,R,R,S,S,ND,ND,S,S,R
+20,pus,P-2379,27-Nov-15,765100,F,27,21,Gyanac,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,R
+21,Urine,U-2783,28-Nov-15,1177650,M,85,MICU,Medicine,Klebsiella pnemoniae,S,S,S,S,S,S,S,S,S,S,S,S
+22,Sputum,SP-2015,28-Nov-15,102676,M,71,63,OPD,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+23,pus,P-2403,30-Nov-15,1190643,M,50,9,Surgery,Klebsiella pnemoniae,S,R,R,R,S,S,S,ND,ND,S,S,R
+1,pus,P-2417,1-Dec-15,1185984,F,18,8,Surgery,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+2,pus,P-2426,2-Dec-15,1189348,M,24,14,Medicine,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+3,pus,P-2434,2-Dec-15,1182826,M,38,,Plastic Surgery,Klebsiella pnemoniae,S,R,R,R,S,S,S,ND,ND,S,S,R
+4,pus,P-2435,2-Dec-15,1188659,M,32,,Plastic Surgery,Klebsiella pnemoniae,S,S,R,R,S,S,S,ND,ND,S,S,R
+5,Csf,C-728,4-Dec-15,1192998,F,19,19,Medicine,Klebsiella pnemoniae,R,S,R,R,R,R,R,ND,ND,S,S,R
+9,Urine,U-2822,5-Dec-15,1194183,F,28,,MICU,Klebsiella pnemoniae,S,S,R,R,S,S,S,S,S,S,S,R
+10,Urine,U-2823,5-Dec-15,1194678,M,63,,MICU,Klebsiella pnemoniae,R,R,R,R,R,R,R,R,R,R,S,R
+11,Sputum,SP-2027,2-Dec-15,1191284,F,67,27,T.B.Chest,Klebsiella pnemoniae,S,R,R,S,S,S,S,ND,ND,S,S,S
+12,Sputum,SP-2036,2-Dec-15,1190677,F,60,,MICU,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+13,Sputum,SP-2058,2-Dec-15,1192951,M,40,15,Medicine,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,I,S,R
+14,Sputum,SP-2040,3-Dec-15,1193518,F,16,27,T.B.Chest,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+15,Sputum,SP-2046,4-Dec-15,1192968,M,60,27,T.B.Chest,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+16,Sputum,SP-2056,5-Dec-15,1193664,M,2,29,PICU,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+17,Sputum,SP-2061,5-Dec-15,1194678,M,63,,MICU,Klebsiella pnemoniae,R,S,R,R,R,R,R,ND,ND,R,S,R
+19,NBL,N-985,4-Dec-15,1193343,M,3,2,,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+21,pus,P-2473,7-Dec-15,210410,F,67,60,OPD,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+22,pus,P-2478,8-Dec-15,1194776,F,47,60,OPD,Klebsiella pnemoniae,S,S,R,S,S,S,S,ND,ND,S,S,R
+23,pus,P-2489,9-Dec-15,590323,M,70,25,,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+24,pus,P-2492,10-Dec-15,118644,M,33,60,OPD,Klebsiella pnemoniae,R,R,S,S,S,S,S,ND,ND,S,S,S
+25,pus,P-2498,10-Dec-15,1197555,F,23,33,Sk in OPD,Klebsiella pnemoniae,R,R,R,S,R,S,S,ND,ND,I,S,R
+26,Sputum,SP-2085,10-Dec-15,1192266,M,60,14,Medecine,Klebsiella pnemoniae,S,R,R,S,S,S,S,ND,ND,S,S,R
+27,Sputum,SP-2088,10-Dec-15,1196401,F,65,,MICU,Klebsiella pnemoniae,R,R,R,R,S,S,S,ND,ND,R,S,R
+28,Sputum,SP-2104,12-Dec-15,19075,F,69,19,Medecine,Klebsiella pnemoniae,S,R,R,S,S,S,S,ND,ND,R,S,R
+29,Sputum,SP-2116,15-Dec-15,1048972,M,58,,MICU,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+30,Sputum,SP-2124,16-Dec-15,119908,M,46,60,OPD,Klebsiella pnemoniae,S,R,R,R,S,R,S,ND,ND,R,S,R
+31,Urine,U-2827,5-Dec-15,1194678,M,63,,MICU,Klebsiella pnemoniae,R,R,R,ND,R,R,R,R,R,R,S,R
+32,Urine,U-2854,10-Dec-15,766823,F,43,60,OPD,Klebsiella pnemoniae,R,R,R,ND,R,R,R,R,R,I,S,R
+33,Urine,U-2874,14-Dec-15,549374,M,41,33,Skin OPD,Klebsiella pnemoniae,R,R,R,ND,R,R,R,R,R,R,S,R
+34,Urine,U-2910,18-Dec-15,1199630,F,32,33,Skin OPD,Klebsiella pnemoniae,S,S,S,ND,S,S,S,S,S,S,S,S
+35,Blood,BL-2074,5-Dec-15,1186540,F,27,15,Medecine,Klebsiella pnemoniae,S,R,S,S,S,S,S,ND,ND,S,S,S
+36,Blood,BL-2083,6-Dec-15,1194650,M,48,14,Medecine,Klebsiella pnemoniae,S,R,R,S,S,S,S,ND,ND,S,S,S
+38,pus,P-2534,16-Dec-15,1185887,M,44,12,Surgery,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+39,pus,P-2537,16-Dec-15,1199802,M,54,9,Surgery,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+40,pus,P-2538,16-Dec-15,1169835,M,41,25,,Klebsiella pnemoniae,R,R,R,R,R,S,S,ND,ND,S,S,S
+41,pus,P-2555,18-Dec-15,1186540,M,27,,Medecine,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,R,R
+42,pus,P-2561,19-Dec-15,1158270,F,27,,Plastic Surgery,Klebsiella pnemoniae,R,R,R,R,R,S,S,ND,ND,S,S,S
+43,pus,P-2560,19-Dec-15,1187062,M,65,16,Nursing Home,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+44,pus,P-2579,21-Dec-15,1201502,M,25,9,Surgery,Klebsiella pnemoniae,S,R,R,S,S,S,S,ND,ND,S,S,R
+45,pus,P-2585,21-Dec-15,1195231,M ,25,25,,Klebsiella pnemoniae,R,R,R,S,S,S,S,ND,ND,S,S,R
+46,pus,P-2586,21-Dec-15,935163,M,38,25,,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+47,pus,P-2588,22-Dec-15,1202556,M,42,,MICU,Klebsiella pnemoniae,R,R,R,R,R,S,S,ND,ND,S,S,R
+48,Sputum,SP-2185,26-Dec-15,1204087,M,74,27,T.B.Chest,Klebsiella pnemoniae,S,R,R,R,R,R,R,ND,ND,R,S,R
+49,Sputum,SP-2193,26-Dec-15,1203106,F,35,19,Medecine,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+50,Urine,U-2945,23-Dec-15,17-Nov-59,F,20,60,OPD,Klebsiella pnemoniae,S,S,S,ND,S,S,S,S,S,I,S,S
+51,Urine,U-2966,28-Dec-15,29-Jun-96,F,20,23,OBGY/Gynac,Klebsiella pnemoniae,I,R,R,ND,R,R,I,R,S,S,S,S
+52,pus,P-2591,22-Dec-15,1202556,M,42,,MICU,Klebsiella pnemoniae,R,R,R,R,R,R,R,ND,ND,R,S,R
+53,Sputum,SP-2204,29-Dec-15,11-Jul-72,M,46,60,OPD,Klebsiella pnemoniae,S,S,S,S,S,S,S,ND,ND,S,S,S
+1,pus,P-11,4-Jan-16,956271,M,66,9,Surgery,Klebsiella pnemoniae,S,R,ND,R,S,S,S,ND,ND,S,S,R
+2,pus,P-24,5-Jan-16,1207755,F,30,23,OBGY/Gynac,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+3,pus,P-47,9-Jan-16,1186540,M,27,9,Surgery,Klebsiella pnemoniae,S,R,ND,R,R,R,R,ND,ND,R,S,R
+4,pus,P-48,9-Jan-16,1204591,M,49,12,Surgery,Klebsiella pnemoniae,R,R,ND,S,R,S,S,ND,ND,R,S,R
+5,Sputum,SP-43,5-Jan-16,1207057,F,75,,MICU,Klebsiella pnemoniae,R,R,ND,S,R,R,R,ND,ND,R,S,R
+6,Sputum,SP-59,7-Jan-16,1207766,M,80,,MICU,Klebsiella pnemoniae,R,R,ND,S,R,S,S,ND,ND,R,S,R
+7,Fluid,FL-10,4-Jan-16,1199553,F,21,19,Medicine,Klebsiella pnemoniae,S,R,ND,R,R,S,S,ND,ND,R,S,R
+8,Urine,u-14,4-Jan-16,1207543,M,30,27,T.B.Chest,Klebsiella pnemoniae,S,R,ND,R,R,S,S,S,S,S,S,R
+9,Urine,U-49,8-Jan-16,1210004,F,22,19,Medicine,Klebsiella pnemoniae,R,R,ND,R,S,S,S,R,S,S,S,R
+10,Urine,U-60,9-Jan-16,451995,F,56,8,Surgery,Klebsiella pnemoniae,R,R,ND,R,R,S,S,R,R,S,S,R
+11,Urine,U-73,11-Jan-16,1210570,M,45,33,Surgery,Klebsiella pnemoniae,S,R,ND,R,R,R,R,R,S,S,S,R
+12,Blood,BL-24,5-Jan-16,1208263,F,80,19,Medicine,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+13,pus,P-67,12-Jan-16,1209762,M,28,9,Surgery,Klebsiella pnemoniae,R,R,ND,R,R,S,S,ND,ND,R,S,R
+14,pus,P-82,13-Jan-16,1212098,M,7,25,Brun ward,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+15,Urine,U-84,12-Jan-16,1031317,M,42,60,OPD,Klebsiella pnemoniae,S,R,ND,R,S,S,S,S,R,S,S,R
+16,Sputum,SP-72,11-Jan-16,1092646,F,55,60,OPD,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+17,Sputum,SP-87,12-Jan-16,1210874,M,75,15,Medecine,Klebsiella pnemoniae,S,R,ND,S,S,S,S,ND,ND,S,S,S
+18,Sputum,sp-89,12-Jan-16,1211663,M,75,19,Medicine,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+19,pus,P-87,14-Jan-16,840615,F,35,8,Surgery,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+20,pus,P-95,16-Jan-16,1200965,M,22,9,Surgery,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+21,pus,P-109,16-Jan-16,1206900,F,4,29/30,PICU,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+22,pus,P-118,17-Jan-16,1214217,M,49,8,Surgery,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+23,pus,P-146,20-Jan-16,1204032,M,40,3,Orthopedics,Klebsiella pnemoniae,S,R,ND,R,R,S,S,ND,ND,R,S,S
+24,pus,P-147,20-Jan-16,1207195,F,8,25,Brun ward,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+25,pus,P-160,22-Jan-16,1212164,M,20,9,Surgery,Klebsiella pnemoniae,R,R,ND,R,R,S,S,ND,ND,R,S,R
+26,pus,P-163,22-Jan-16,1216569,M,71,15,Medicine,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+27,pus,P-167,22-Jan-16,1211570,M,35,25,Brun ward,Klebsiella pnemoniae,S,R,ND,S,S,S,S,ND,ND,S,S,R
+28,Urine,U-137,20-Jan-16,1215889,M,70,60,OPD,Klebsiella pnemoniae,R,R,ND,S,R,S,S,ND,ND,S,S,R
+29,pus,P-179,25-Jan-16,569760,M,25,9,Surgery,Klebsiella pnemoniae,S,R,ND,R,R,S,S,ND,ND,R,S,R
+30,pus,P-209,29-Jan-16,1208856,M,50,9,Surgery,Klebsiella pnemoniae,S,R,ND,R,S,S,S,ND,ND,S,S,R
+31,Sputum,SP-187,28-Jan-16,901159,F,66,19,Medicine,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
+32,Sputum,SP-199,29-Jan-16,955176,M,71,,MICU,Klebsiella pnemoniae,R,R,ND,R,R,R,R,ND,ND,R,S,R
+33,Sputum,SP-202,30-Jan-16,1219865,M,52,14,Surgery,Klebsiella pnemoniae,S,S,ND,S,S,S,S,ND,ND,S,S,S
