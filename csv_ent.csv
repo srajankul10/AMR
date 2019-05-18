@@ -1,0 +1,47 @@
+SR NO.,MaterialRecd,,SampleDate,Regd No,Gender,Age (Yrs),Location,Dept,Organism,Penicillin,Gentamicin,Erythromycin,Vancomycin,Teicoplanin,Ciproflox,Nitrofurantoin(U),Norfloxacin(U),Linezolid,Tetra
+1,Pus,P-2180,4-Nov-15,696617,F,18,63,OPD,Enterococcus spp,S,S,S,S,S,S,ND,ND,S,S
+2,Pus,P-2117,5-Nov-15,1181634,F,60,32,Skin,Enterococcus spp,S,S,S,S,S,S,ND,ND,S,S
+3,Pus,P-2252,9-Nov-15,253510,F,50,8,Surgery,Enterococcus spp,R,R,R,S,S,R,ND,ND,S,S
+4,Urine,U-2607,2-Nov-15,1173988,F,60,21,OBGR/Gyanac,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+5,Urine,U-2617,3-Nov-15,771287,F,28,33,Skin,Enterococcus spp,R,S,ND,S,S,R,S,R,S,R
+6,Urine,U-2660,9-Nov-15,1183296,F,11,29,PICU,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+7,Urine,U-2629,12-Nov-15,1179702,M,55,3,Ortho,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R
+8,Pus,P-2279,16-Nov-15,1028111,F,67,8,Surgery,Enterococcus spp,S,S,S,S,S,S,ND,ND,S,S
+9,Urine,U-2681,16-Nov-15,1177628,F,45,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+10,Urine,U-2683,16-Nov-15,1158636,M,33,9,Surgery,Enterococcus spp,R,S,ND,S,S,R,S,R,S,R
+11,Urine,U-2688,16-Nov-15,1171780,F,37,21,OBGY/Gyanac,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+12,Urine,U-2701,17-Nov-15,666923,M,68,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+13,Pus,P-2327,21-Nov-15,1187270,M,25,63,OPD,Enterococcus spp,R,R,R,S,S,S,ND,ND,S,R
+14,Urine,U-2735,21-Nov-15,1187756,F,50,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+15,Urine,U-2745,23-Nov-15,1188795,F,78,19,Medicine,Enterococcus spp,R,S,ND,S,S,R,S,R,S,R
+16,Urine,U-2746,23-Nov-15,1188709,F,9,29,PICU,Enterococcus spp,R,R,ND,S,S,R,S,R,S,S
+17,Urine,U-2755,24-Nov-15,1189321,M,18,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+18,Urine,U-2779,27-Nov-15,1014265,F,31,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R
+19,Pus,P-2372,26-Nov-15,1154309,F,35,20,OBGY/Gyanac,Enterococcus spp,S,R,R,S,S,S,ND,ND,S,R
+1,Blood,BL-2068,3-Dec-15,1193616,M,44,14,Medicine,Enterococcus spp,S,S,R,S,S,R,ND,ND,S,S
+2,Urine,U-2811,3-Dec-15,103049,F,9,29,NICU,Enterococcus spp,S,S,ND,S,S,R,S,R,S,S
+3,Urine,U-2834,7-Dec-15,1192951,M,40,15,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,S,S,R
+4,Urine,U-2844,8-Dec-15,1116519,F,21,20,OBGY,Enterococcus spp,R,R,ND,S,S,R,S,R,S,S
+5,Urine,U-2894,16-Dec-15,1197441,F,45,19,Medicine,Enterococcus spp,R,R,ND,S,S,R,S,R,S,R
+6,Urine,U-2924,21-Dec-15,1190101,F,60,60,OPD,Enterococcus spp,R,R,ND,S,S,R,R,S,S,S
+7,Blood,BL-2068,3-Dec-15,1193616,M,44,14,Medicine,Enterococcus spp,S,S,S,S,S,S,ND,ND,S,S
+8,Blood,BL-2115,11-Dec-15,986405,F,56,19,Medicine,Enterococcus spp,R,R,S,S,S,R,ND,ND,S,R
+9,Urine,U-2965,28-Dec-15,1204008,F,65,21,OBGY,Enterococcus spp,R,S,ND,S,S,R,S,S,S,R
+1,Blood,Bl-18,5-Jan-16,923672,F,18,19,Medicine,Enterococcus spp,R,R,R,S,S,R,ND,ND,S,S
+2,Urine,U-26,5-Jan-16,1207255,M,55,14,Medicine,Enterococcus spp,S,R,ND,S,S,R,S,R,S,R
+3,Urine,U-67,9-Jan-16,1210047,F,29,MICU,Medicine,Enterococcus spp,R,S,ND,S,S,S,S,R,S,R
+4,Fluild,Fl-12,4-Jan-16,1207583,M,50,19,Medicine,Enterococcus spp,R,R,R,S,S,S,S,R,S,R
+5,Pus,p-14,4-Jan-16,1203615,M,49,12,Surgery,Enterococcus spp,R,S,S,S,S,S,ND,ND,S,S
+6,Pus,p-42,8-Jan-16,1208381,M,55,12,Surgery,Enterococcus spp,S,S,S,S,S,S,ND,ND,S,S
+7,Pus,P-137,20-Jan-06,2549,M,12,14,Medicine,Enterococcus spp,R,S,R,S,S,S,ND,ND,S,S
+8,Urine,U-32,5-Jan-16,1201255,M,52,14,Medicine,Enterococcus spp,S,R,ND,S,S,R,S,S,S,R
+9,Urine,U-85,12-Jan-16,510115,F,73,60,OPD,Enterococcus spp,S,R,ND,S,S,R,S,R,S,S
+10,Urine,U-100,14-Jan-16,394454,M,55,15,M edicine,Enterococcus spp,R,R,ND,S,S,S,S,S,S,S
+11,Urine,U-189,28-Jan-16,1205716,M,10,29/30,PICU,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R
+12,Urine,U-199,29-Jan-16,1217082,M,12,12,Surgery,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R
+7,Pus,P-137,20-Jan-06,2549,M,12,14,Medicine,Enterococcus spp,R,S,R,S,S,S,ND,ND,S,S
+8,Urine,U-32,5-Jan-16,1201255,M,52,14,Medicine,Enterococcus spp,S,R,ND,S,S,R,S,S,S,R
+9,Urine,U-85,12-Jan-16,510115,F,73,60,OPD,Enterococcus spp,S,R,ND,S,S,R,S,R,S,S
+10,Urine,U-100,14-Jan-16,394454,M,55,15,M edicine,Enterococcus spp,R,R,ND,S,S,S,S,S,S,S
+11,Urine,U-189,28-Jan-16,1205716,M,10,29/30,PICU,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R
+12,Urine,U-199,29-Jan-16,1217082,M,42,12,Surgery,Enterococcus spp,R,R,ND,S,S,R,R,R,S,R

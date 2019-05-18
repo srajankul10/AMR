@@ -1,0 +1,84 @@
+SR NO.,MaterialRecd,Lab Id,SampleDate,Regd No,Gender,Age,Location,Dept,Organism,Ampicillin,Ceftazidime,Cefepime,Pip-taz,Amikacin,Imepenem,Meropenem,Cotrimoxazole,Aztreonam,Ciprofloxacin,Colistin,Norfloxacin,Nitrofurantion,Gentamicin
+1,Urine,U-2650,7-Nov-15,1173059,F,80,19,Medcine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,S,S,S
+2,Sputum,S1878,3-Nov-15,462703,F,64,19,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,S
+3,Sputum,SP1883,4-Nov-15,914649,F,34,34,OPD,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,S
+4,Sputum,SP-1890,5-Nov-15,1129612,M,60,19,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,R,R,S,S,ND    ,ND,S
+5,Sputum,SP-1912,10-Nov-15,60478,F,60,MICU,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,S
+6,Sputum,SP-1913,10-Nov-15,1181413,M,55,14,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,S
+7,Sputum,SP-1937,16-Nov-15,777716,M,62,27,T.B.Chest,Pseudo aeruginosa,R,S,S,S,S,S,S,S,R,S,S,ND    ,ND,S
+8,Pus,P-2184,3-Nov-15,771287,F,28,63,OPD,Pseudo aeruginosa,R,S,S,S,S,R,R,S,S,R,S,ND    ,ND,S
+9,Pus,P-2194,4-Nov-15,1176262,F,40,TICU,Orthopedics,Pseudo aeruginosa,S,R,R,R,R,S,S,S,S,R,S,ND    ,ND,S
+10,Pus,P-2201,4-Nov-15,1169704,M,45,9,Surgery,Pseudo aeruginosa,S,R,S,S,S,S,R,S,S,R,S,ND    ,ND,S
+11,Pus,P-2203,4-Nov-15,1171641,M,25,9,Surgery,Pseudo aeruginosa,R,S,S,R,S,R,R,S,S,S,S,ND    ,ND,S
+12,Pus,P-2245,9-Nov-15,1178695,M,45,9,Surgery,Pseudo aeruginosa,S,R,R,R,S,S,S,S,R,R,S,ND    ,ND,S
+13,Pus,P-2248,9-Nov-15,282394,M,50,12,Surgery,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,R
+14,Pus,P-2252,10-Nov-15,253510,F,50,8,Surgery,Pseudo aeruginosa,S,R,R,S,S,S,S,S,R,R,S,ND    ,ND,S
+15,Sputum,SP-1912,10-Nov-15,60478,F,60,MICU,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND    ,ND,S
+16,Sputum,SP-1913,10-Nov-15,1181413,M,55,14,Medicine,Pseudo aeruginosa,R,S,S,S,S,S,S,S,I,S,S,ND    ,ND,S
+17,Pus,P-2285,9-Nov-15,1178695,M,45,9,Surgery,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,ND    ,ND,S
+18,Urine,U-2678,14-Nov-15,1173059,F,80,9,Surgery,Pseudo aeruginosa,R,S,S,S,S,S,S,S,S,S,S,S,S,S
+19,Urine,U-2705,18-Nov-15,1168237,F,19,22,OBGY/Gyanac,Pseudo aeruginosa,S,R,R,S,R,R,R,S,R,R,S,R,S,R
+20,Pus,P-2329,21-Nov-15,1185984,F,18,8,Surgery,Pseudo aeruginosa,S,R,R,R,R,R,R,S,S,S,S,ND,ND,S
+21,Pus,P-2335,21-Nov-15,788073,F,67,8,Surgery,Pseudo aeruginosa,S,S,R,S,R,S,S,R,R,R,S,ND,ND,S
+22,Pus,P-2340,21-Nov-15,737718,F,70,8,Surgery,Pseudo aeruginosa,S,R,S,R,S,S,S,S,S,S,S,ND,ND,S
+23,Urine,U-2705,18-Nov-15,1168237,F,22,22,OBGY/Gyanac,Pseudo aeruginosa,R,R,R,S,R,S,S,S,R,R,S,S,S,S
+24,Urine,U-2752,23-Nov-15,1188578,F,15,MICU,Medicine,Pseudo aeruginosa,R,S,S,S,R,S,S,R,S,S,S,R,S,S
+25,Sputum,SP-1951,20-Nov-15,1185480,M,25,27,T.B.Chest,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+26,Sputum,SP-1959,23-Nov-15,1109732,M,55,27,T.B.Chest,Pseudo aeruginosa,R,S,S,S,R,S,S,R,S,S,S,ND,ND,S
+27,Sputum,SP-1990,24-Nov-15,839513,F,67,19,Medicine,Pseudo aeruginosa,S,S,S,S,R,S,S,R,S,R,S,ND,ND,S
+28,Sputum,SP-1992,24-Nov-15,118748,F,45,MICU,Medicine,Pseudo aeruginosa,R,S,S,S,R,S,S,R,S,R,S,ND,ND,S
+29,Sputum,SP-1993,24-Nov-15,492317,M,27,14,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,R,S,S,S,ND,ND,S
+30,Sputum,SP-1995,24-Nov-15,1187743,M,45,MICU,Medicine,Pseudo aeruginosa,S,S,S,S,R,S,S,R,S,S,S,ND,ND,S
+31,Sputum,SP-2003,27-Nov-15,678202,M,63,27,T.B.Chest,Pseudo aeruginosa,S,S,S,S,R,S,S,R,S,S,S,ND,ND,S
+32,Pus,P-2381,27-Nov-15,753843,F,18,22,OBGY/Gyanac,Pseudo aeruginosa,S,S,S,S,R,S,S,S,S,R,S,ND,ND,S
+33,Urine,U-2783,28-Nov-15,1177650,M,85,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,S,R,S
+1,Pus,P-2434,2-Dec-15,1182826,M,38,, Plastic suegery,Pseudo aeruginosa,R,R,R,S,R,R,R,S,R,I,S,ND,ND,R
+2,Pus,P-2443,3-Dec-15,1193343,M,3,2,Orthopedics,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+3,Pus,P-2444,3-Dec-15,1184248,M,20,60,OPD,Pseudo aeruginosa,R,R,R,S,R,S,S,S,S,R,S,ND,ND,S
+4,Urine,U-2842,2-Dec-15,1187788,M,35,15,Medicine,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,ND,ND,R
+5,Sputum,SP-2031,2-Dec-15,966083,F,33,19,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+6,Sputum,SP-2040,3-Dec-15,1193518,F,16,27,T.B.Chest,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+7,Sputum,SP-2053,5-Dec-15,10932,M,65,60,OPD,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+8,Sputum,SP-2058,5-Dec-15,1194286,F,30,8,Surgery,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+9,Sputum,SP-2064,7-Dec-15,33585,F,71,27,T.B.Chest,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+10,Pus,P-2503,12-Dec-15,942334,F,55,8,Surgery,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,ND,ND,R
+11,Sputum,SP-2102,12-Dec-15,1196979,M,21,14,Surgery,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+12,Sputum,SP-2112,14-Dec-15,1156377,M,21,60,OPD,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+13,Sputum,SP-2126,16-Dec-15,255113,M,64,14,Surgery,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+14,Urine,U-2875,12-Dec-15,1198330,F,12,30,NICU,Pseudo aeruginosa,S,R,R,S,S,S,S,S,S,ND,S,S,S,S
+15,Urine,U-2883,15-Dec-15,1195268,F,23,8,Surgery,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,ND,S,R,R,R
+16,Urine,U-2887,15-Dec-15,1198478,M,63,15,Medicine,Pseudo aeruginosa,S,R,R,S,S,S,S,S,S,ND,S,S,S,S
+17,Urine,U-2913,18-Dec-15,1193033,M,50,15,Medicine,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,R,R,R
+18,Sputum,SP-2556,17-Dec-15,496385,M,72,33,Skin,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+19,Pus,P-2572,21-Dec-15,1192420,M,75,12,Surgery,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,ND,ND,R
+20,Pus,P-2593,22-Dec-15,1194990,M,0,8,Surgery,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+21,Pus,P-2620,26-Dec-15,3932,F,56,8,Surgery,Pseudo aeruginosa,S,R,R,R,S,S,S,R,R,R,S,ND,ND,R
+22,Pus,P-2625,28-Dec-15,1204234,M,34,TICU,Orthopedics,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+23,Pus,P-2641,29-Dec-15,1205174,M,33,12,Surgery,Pseudo aeruginosa,S,S,S,S,S,R,R,S,S,R,S,ND,ND,R
+24,Pus,P-2136,29-Dec-15,1200397,M,50,15,Medicine,Pseudo aeruginosa,R,R,R,R,R,R,R,R,R,R,S,ND,ND,R
+25,Sputum,SP-2210,30-Dec-15,1204491,F,22,19,Medicine,Pseudo aeruginosa,S,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+26,Pus,P-2644,30-Dec-15,1201877,F,60,8,Surgery,Pseudo aeruginosa,R,R,R,I,R,R,R,R,R,R,S,ND,ND,R
+1,Pus,p-7,2-Jan-16,590323,M,70,47,plastic surgery,Pseudo aeruginosa,ND,R,R,S,R,S,S,S,S,S,S,ND,ND,S
+2,Pus,P-9,2-Jan-16,58884,M,76,14,Medicine,Pseudo aeruginosa,ND,S,S,S,R,S,S,S,S,S,S,ND,ND,S
+3,Pus,P-11,4-Jan-16,956271,M,66,9,Surgery,Pseudo aeruginosa,ND,R,R,S,R,R,R,R,S,R,S,ND,ND,S
+4,Pus,P-27,5-Jan-16,1206745,M,66,60,OPD,Pseudo aeruginosa,ND,R,R,S,R,R,S,R,S,R,S,ND,ND,R
+5,Sputum,sp-27,5-Jan-16,1194116,F,75,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+6,Sputum,SP-59,7-Jan-16,1207766,M,70,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+7,Sputum,SP-79,12-Jan-16,955176,M,71,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,R,S,ND,ND,S
+8,Pus,P-33,7-Jan-16,1169945,M,60,47,Info plastic sugery,Pseudo aeruginosa,ND,S,S,S,R,S,S,S,S,R,S,ND,ND,S
+9,Pus,P-66,12-Jan-16,1205174,M,33,12,Surgery,Pseudo aeruginosa,ND,R,S,S,R,R,R,S,S,R,S,ND,ND,S
+10,Pus,P-68,12-Jan-16,1192420,M,75,12,Surgery,Pseudo aeruginosa,ND,R,R,R,R,R,S,R,S,R,S,ND,ND,R
+11,Pus,P-69,12-Jan-16,1188324,M,24,9,Surgery,Pseudo aeruginosa,ND,R,S,S,R,R,S,S,S,R,S,ND,ND,S
+12,Pus,P-74,12-Jan-16,1208894,F,24,22,OBGY/GYNAC,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+13,Sputum,Sp-83,12-Jan-16,62263,F,28,33,Skin,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+14,Sputum,Sp-126,18-Jan-16,1213770,M ,37,34,OPD,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+15,Pus,P-99,16-Jan-16,75769,F,40,19,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+16,Pus,P-125,19-Jan-16,1208381,M,55,12,Surgery,Pseudo aeruginosa,ND,S,S,S,R,S,S,S,S,S,S,ND,ND,S
+17,Pus,P-146,20-Jan-16,1204032,M,40,3,Ortho pedic,Pseudo aeruginosa,ND,R,S,ND,S,S,S,R,S,S,S,ND,ND,S
+18,Pus,P-155,21-Jan-16,956271,M,66,9,Surgery,Pseudo aeruginosa,ND,R,R,R,R,R,R,R,R,R,S,ND,ND,R
+19,Pus,P--164,22-Jan-16,565674,F,26,12,Surgery,Pseudo aeruginosa,ND,R,R,R,R,S,S,R,R,R,S,ND,ND,R
+20,Pus,P-168,22-Jan-16,1172637,M,53,47,plastic surgery,Pseudo aeruginosa,ND,R,R,S,R,S,S,R,R,R,S,ND,ND,R
+21,Urine,U-156,22-Jan-16,1214835,F,15,19,Medicine,Pseudo aeruginosa,ND,R,R,R,R,R,R,R,R,S,S,R,S,R
+22,Sputum,Sp-139,20-Jan-16,1215010,M,50,27,T.B.Chest,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+23,Sputum,Sp-147,20-Jan-16,1213940,M,35,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
+24,Sputum,Sp-173,25-Jan-16,1217034,M,62,MICU,Medicine,Pseudo aeruginosa,ND,S,S,S,S,S,S,S,S,S,S,ND,ND,S
